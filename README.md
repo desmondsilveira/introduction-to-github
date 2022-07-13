@@ -145,7 +145,7 @@ Next, wait about 20 seconds for actions to run, then refresh this course's READM
   <<< Author notes: Step 4 >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
--->
+-->could be slicker
 
 <details id=4>
 <summary><h2>Step 4: Apply suggested changes</h2></summary>
